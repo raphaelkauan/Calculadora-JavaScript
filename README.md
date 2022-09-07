@@ -1,2 +1,2 @@
-# Calculadora-JavaScript
->Calculadora em HTML-JAVASCRIPT>
+# Calculadora-JavaScriptrg
+Calculadora Simples em HTML-JavaScript
